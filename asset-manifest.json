@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1e9f075.css",
+    "main.js": "/static/js/main.d4c91bd8.js",
+    "static/media/hand.PNG": "/static/media/hand.16ad50e99e466460c27e.PNG",
+    "static/media/client2.ico": "/static/media/client2.ecb2f8371cb972f72b3d.ico",
+    "static/media/bg6.jpeg": "/static/media/bg6.5cdabc4ceeb5116baa4a.jpeg",
+    "static/media/bg4.jpg": "/static/media/bg4.dd707d22ad3383991f7f.jpg",
+    "static/media/statue.jpg": "/static/media/statue.8e96d9f07a4e91032f6f.jpg",
+    "static/media/jane.JPG": "/static/media/jane.66778b85004bd095adc8.JPG",
+    "static/media/martin.JPG": "/static/media/martin.f026c6dea52574edf614.JPG",
+    "static/media/accident.JPG": "/static/media/accident.3d1b87ac74ffd16ba25d.JPG",
+    "static/media/john.JPG": "/static/media/john.a2c69b5a302b71fae386.JPG",
+    "static/media/criminal.JPG": "/static/media/criminal.c8374ed3a5b80819de46.JPG",
+    "static/media/client3.jpg": "/static/media/client3.7de7bd011b1fcac834ff.jpg",
+    "static/media/jason.JPG": "/static/media/jason.b7acefd5c136730b274b.JPG",
+    "static/media/personal.JPG": "/static/media/personal.2620b131e702fbe74f16.JPG",
+    "static/media/divorce.JPG": "/static/media/divorce.31b44e13c99cd05c62c9.JPG",
+    "static/media/umberlah.JPG": "/static/media/umberlah.cff5bc253e95eca56318.JPG",
+    "static/media/drug.JPG": "/static/media/drug.1564a7c12f7d3064073a.JPG",
+    "static/media/litigen.JPG": "/static/media/litigen.a35cddf0604ce9a737dd.JPG",
+    "static/media/settings.png": "/static/media/settings.f5f97902908b76719291.png",
+    "static/media/client1.png": "/static/media/client1.e10c5ef58fa5b0e7a411.png",
+    "static/media/monitor.jpg": "/static/media/monitor.76eb0b0d00351bc5fca4.jpg",
+    "index.html": "/index.html",
+    "main.c1e9f075.css.map": "/static/css/main.c1e9f075.css.map",
+    "main.d4c91bd8.js.map": "/static/js/main.d4c91bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e9f075.css",
+    "static/js/main.d4c91bd8.js"
+  ]
+}
