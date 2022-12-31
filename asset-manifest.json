@@ -6,7 +6,7 @@
     "static/media/client2.ico": "/static/media/client2.ecb2f8371cb972f72b3d.ico",
     "static/media/bg6.jpeg": "/static/media/bg6.5cdabc4ceeb5116baa4a.jpeg",
     "static/media/bg4.jpg": "/static/media/bg4.dd707d22ad3383991f7f.jpg",
-    "static/media/statue.jpg": "/static/media/statue.8e96d9f07a4e91032f6f.jpg",
+    "static/media/statue.jpg": "./static/media/statue.8e96d9f07a4e91032f6f.jpg",
     "static/media/jane.JPG": "/static/media/jane.66778b85004bd095adc8.JPG",
     "static/media/martin.JPG": "/static/media/martin.f026c6dea52574edf614.JPG",
     "static/media/accident.JPG": "/static/media/accident.3d1b87ac74ffd16ba25d.JPG",
